@@ -20,11 +20,13 @@ names:
 examples:
   ${THIS_NAME} 1 2 4
   ${THIS_NAME} r g b
+  ${THIS_NAME} 9 10 12
   ${THIS_NAME} R G B
   ${THIS_NAME} red green blue
   ${THIS_NAME} RED GREEN BLUE
   ${THIS_NAME} -f 1 -b 2 -l 4
   ${THIS_NAME} -f r -b g -l b
+  ${THIS_NAME} -f 9 -b 10 -l 12
   ${THIS_NAME} -f R -b G -l B
   ${THIS_NAME} -f red -b green -l blue
   ${THIS_NAME} -f RED -b GREEN -l BLUE
